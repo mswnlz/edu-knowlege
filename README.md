@@ -55,7 +55,7 @@
 ---------------
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=mswnlz/edu-knowlege&type=Date)](https://www.star-history.com/#mswnlz/edu-knowlege&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=mswnlz/edu-knowlege&type=Date)](https://star-history.dera.page/#mswnlz/edu-knowlege&Date)
 
 ---------------
 
